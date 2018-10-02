@@ -82,3 +82,8 @@
 - Place: Boston, MA, US
 - Bio: Software Engineer, Cat Enthusiast >.<
 - GitHub: [Dylan Fontana](https://github.com/dfontana)
+
+#### Name: [EarlofSquirrel](https://github.com/EarlofSquirrel)
+- Place: Boston, MA, US
+- Bio: New Coder >.<
+- GitHub: [EarlofSquirrel](https://github.com/EarlpfSquirrel)
